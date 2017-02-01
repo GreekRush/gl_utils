@@ -1,0 +1,19 @@
+{
+  "name": "gl_utils",
+  "version": "0.0.1",
+  "description": "A utility library designed to be used in any js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"testing...\\nYOU TALKING ABOUT TESTING\\!\\?\\!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreekRush/gl_utils.git"
+  },
+  "author": "GreekLink Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreekRush/gl_utils/issues"
+  },
+  "homepage": "https://github.com/GreekRush/gl_utils#readme"
+}
