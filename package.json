@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/GreekRush/gl_utils/issues"
   },
-  "homepage": "https://github.com/GreekRush/gl_utils#readme"
+  "homepage": "https://github.com/GreekRush/gl_utils#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "sugar": "^2.0.4"
+  }
 }
